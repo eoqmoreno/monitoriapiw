@@ -1,0 +1,59 @@
+.navbar{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background:#ffc400;
+    width: 100%;
+    height: 50px;
+    color: white;
+    display: flex;
+}
+
+.borda{
+    border-radius: 8px;
+    border: khaki solid 1px;
+    padding: 5%;
+    text-align: center; 
+    float: left;
+}
+
+
+.logo{ 
+    font-size: 30px;
+    width: 25%;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: bolder;
+    background-color: rgb(250, 175, 194)
+}
+
+
+ul{
+    width: 50%;
+    display: flex;
+    list-style-type: none;
+
+}
+
+ul li{ 
+    width: 25%;
+    text-align: center;
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+ul li a{
+     text-decoration: none;
+     color: white;
+     
+}
+
+
+.usuario{
+    width: 25%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+
+
+

@@ -1,3 +1,9 @@
+## REDE SOCIAL
+Repositório para a disciplina de Projeto de Interface WEB.
+A master está com a versão da Atividade 1
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
